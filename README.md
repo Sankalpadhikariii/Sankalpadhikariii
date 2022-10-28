@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sankalpadhikariii
-- 👀 I’m interested in back end development 
-- 🌱 I’m currently learning C#
+- 
+- 🌱 I’m currently learning C# ,C++ 
 - 
 - 📫 How to reach me adhikari.sankalpa123@gmail.com 
 
