@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sankalpadhikariii
 - 
-- 🌱 I’m currently learning C# ,C++ ,Python,HTML.CSS,JavaScript
+- 🌱 I’m currently learning C# ,C++ ,Python,HTML,CSS,JavaScript
 - 
 - 📫 How to reach me adhikari.sankalpa123@gmail.com 
 
