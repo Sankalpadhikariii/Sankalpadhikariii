@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalpadhikariii" alt="sankalpadhikariii" /></a> </p>
 
-- 🔭 I’m currently working on **Tracking Defects on the md file**
+- 🔭 I’m currently working on **Tracking Defects through the md file**
 
 - 🌱 I’m currently learning **Selenium and Cypress**
 
