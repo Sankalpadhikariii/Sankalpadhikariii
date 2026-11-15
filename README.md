@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalpa Adhikari</h1>
-<h3 align="center">A passionate ML learning enthusiast</h3>
+<h3 align="center">A passionate QA Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalpadhikariii&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpadhikariii" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Movie Recommendation System**
 
-- 🌱 I’m currently learning **Selenium and Cypress**
+- 🌱 I’m currently learning **Selenium and Playwright**
 
 - 💬 Ask me about **Python, C++ and frameworks**
 
